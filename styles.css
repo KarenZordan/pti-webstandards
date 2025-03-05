@@ -78,7 +78,7 @@ body {
 #servicos {
     background-color: #ffffff; /* Fundo branco */
     padding: 40px 20px; /* Espaçamento interno */
-    border: none; /* Borda verde-escuro */
+    border: 2px solid #FCA798; /* Borda salmão */
     border-radius: 10px; /* Bordas arredondadas */
     text-align: center; /* Centraliza o conteúdo */
 }
@@ -171,7 +171,7 @@ blockquote {
 #contato {
     background-color: #ffffff; /* Fundo branco */
     padding: 40px 20px; /* Espaçamento interno */
-    border: none; /* Borda verde-escuro */
+    border: 2px solid #FCA798; /* Borda salmão */
     border-radius: 10px; /* Bordas arredondadas */
 }
 
